@@ -1,4 +1,5 @@
 class Genre
+<<<<<<< HEAD
     attr_accessor :name
 
     @@all = []
@@ -24,3 +25,7 @@ class Genre
         end
     end
 end
+=======
+
+end
+>>>>>>> 7ff1a6ac5a9ebd812bae8d39711857d8aefe7c55
